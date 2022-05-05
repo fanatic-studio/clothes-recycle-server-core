@@ -1,6 +1,6 @@
 # logrus
 
-[logrus](https://github.com/sirupsen/logrus) logger implementation for __view-server__ [meta logger](https://github.com/fanatic-studio/clothes-recycle-server-core/tree/master/logger).
+[logrus](https://github.com/sirupsen/logrus) logger implementation for __clothes-recycle-server__ [meta logger](https://github.com/fanatic-studio/clothes-recycle-server-core/tree/master/logger).
 
 ## Usage
 
