@@ -3,7 +3,7 @@ package xml
 import (
 	"encoding/xml"
 
-	"github.com/view-team/view-server-core/config/encoder"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
 )
 
 type xmlEncoder struct{}

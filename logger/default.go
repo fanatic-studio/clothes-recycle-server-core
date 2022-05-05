@@ -11,7 +11,7 @@ import (
 	"sync"
 	"time"
 
-	dlog "github.com/view-team/view-server-core/debug/log"
+	dlog "github.com/fanatic-studio/clothes-recycle-server-core/debug/log"
 )
 
 func init() {

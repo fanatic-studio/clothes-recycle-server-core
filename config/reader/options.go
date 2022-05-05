@@ -1,11 +1,11 @@
 package reader
 
 import (
-	"github.com/view-team/view-server-core/config/encoder"
-	"github.com/view-team/view-server-core/config/encoder/json"
-	"github.com/view-team/view-server-core/config/encoder/toml"
-	"github.com/view-team/view-server-core/config/encoder/xml"
-	"github.com/view-team/view-server-core/config/encoder/yaml"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder/json"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder/toml"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder/xml"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder/yaml"
 )
 
 type Options struct {

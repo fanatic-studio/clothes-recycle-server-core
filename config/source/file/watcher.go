@@ -1,12 +1,13 @@
-//+build !linux
+//go:build !linux
+// +build !linux
 
 package file
 
 import (
 	"os"
 
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
 	"github.com/fsnotify/fsnotify"
-	"github.com/view-team/view-server-core/config/source"
 )
 
 type watcher struct {

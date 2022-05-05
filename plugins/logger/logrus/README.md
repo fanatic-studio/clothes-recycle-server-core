@@ -1,6 +1,6 @@
 # logrus
 
-[logrus](https://github.com/sirupsen/logrus) logger implementation for __view-server__ [meta logger](https://github.com/view-team/view-server-core/tree/master/logger).
+[logrus](https://github.com/sirupsen/logrus) logger implementation for __view-server__ [meta logger](https://github.com/fanatic-studio/clothes-recycle-server-core/tree/master/logger).
 
 ## Usage
 
@@ -8,7 +8,7 @@
 import (
 	"os"
 	"github.com/sirupsen/logrus"
-	"github.com/view-team/view-server-core/logger"
+	"github.com/fanatic-studio/clothes-recycle-server-core/logger"
 )
 
 func ExampleWithOutput() {

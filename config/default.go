@@ -5,11 +5,11 @@ import (
 	"sync"
 	"time"
 
-	"github.com/view-team/view-server-core/config/loader"
-	"github.com/view-team/view-server-core/config/loader/memory"
-	"github.com/view-team/view-server-core/config/reader"
-	"github.com/view-team/view-server-core/config/reader/json"
-	"github.com/view-team/view-server-core/config/source"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/loader"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/loader/memory"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/reader"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/reader/json"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
 )
 
 type config struct {

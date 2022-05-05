@@ -4,7 +4,7 @@ import (
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 
-	"github.com/view-team/view-server-core/logger"
+	"github.com/fanatic-studio/clothes-recycle-server-core/logger"
 )
 
 type Options struct {

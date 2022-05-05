@@ -6,8 +6,8 @@ import (
 	"fmt"
 	"testing"
 	
-	"github.com/view-team/view-server-core/config"
-	"github.com/view-team/view-server-core/config/source/file"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source/file"
 )
 
 func TestApp(t *testing.T)  {

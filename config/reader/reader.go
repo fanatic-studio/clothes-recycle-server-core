@@ -4,7 +4,7 @@ package reader
 import (
 	"time"
 
-	"github.com/view-team/view-server-core/config/source"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
 )
 
 // Reader is an interface for merging changesets

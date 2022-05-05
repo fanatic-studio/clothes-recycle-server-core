@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/view-team/view-server-core/config/secrets"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/secrets"
 )
 
 func TestSecretBox(t *testing.T) {

@@ -4,8 +4,8 @@ package loader
 import (
 	"context"
 
-	"github.com/view-team/view-server-core/config/reader"
-	"github.com/view-team/view-server-core/config/source"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/reader"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
 )
 
 // Loader manages loading sources

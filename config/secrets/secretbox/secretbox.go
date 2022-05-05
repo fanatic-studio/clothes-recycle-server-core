@@ -3,7 +3,7 @@
 package secretbox
 
 import (
-	"github.com/view-team/view-server-core/config/secrets"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/secrets"
 	"github.com/pkg/errors"
 	"golang.org/x/crypto/nacl/secretbox"
 

@@ -13,7 +13,7 @@ package main
 
 import (
 	"github.com/gin-gonic/gin"
-	"github.com/view-team/view-server-core/transfer"
+	"github.com/fanatic-studio/clothes-recycle-server-core/transfer"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
 

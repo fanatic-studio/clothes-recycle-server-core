@@ -3,7 +3,7 @@ package zap
 import (
 	"testing"
 
-	"github.com/view-team/view-server-core/logger"
+	"github.com/fanatic-studio/clothes-recycle-server-core/logger"
 )
 
 func TestName(t *testing.T) {

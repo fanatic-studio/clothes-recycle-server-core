@@ -7,8 +7,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/view-team/view-server-core/config"
-	"github.com/view-team/view-server-core/config/source/file"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source/file"
 )
 
 func TestConfig(t *testing.T) {

@@ -1,8 +1,8 @@
 package yaml
 
 import (
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
 	"github.com/ghodss/yaml"
-	"github.com/view-team/view-server-core/config/encoder"
 )
 
 type yamlEncoder struct{}

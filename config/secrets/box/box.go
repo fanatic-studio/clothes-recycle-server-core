@@ -2,7 +2,7 @@
 package box
 
 import (
-	"github.com/view-team/view-server-core/config/secrets"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/secrets"
 	"github.com/pkg/errors"
 	naclbox "golang.org/x/crypto/nacl/box"
 

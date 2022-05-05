@@ -3,7 +3,7 @@ package json
 import (
 	"encoding/json"
 
-	"github.com/view-team/view-server-core/config/encoder"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
 )
 
 type jsonEncoder struct{}

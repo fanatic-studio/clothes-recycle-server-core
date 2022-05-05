@@ -3,7 +3,7 @@ package file
 import (
 	"testing"
 
-	"github.com/view-team/view-server-core/config/source"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
 )
 
 func TestFormat(t *testing.T) {

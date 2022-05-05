@@ -3,8 +3,8 @@ package source
 import (
 	"context"
 
-	"github.com/view-team/view-server-core/config/encoder"
-	"github.com/view-team/view-server-core/config/encoder/json"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder/json"
 )
 
 type Options struct {

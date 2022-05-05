@@ -3,7 +3,7 @@ package config
 import (
 	"time"
 
-	"github.com/view-team/view-server-core/config/reader"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/reader"
 )
 
 type value struct{}

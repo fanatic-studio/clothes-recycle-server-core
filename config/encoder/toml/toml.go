@@ -4,7 +4,7 @@ import (
 	"bytes"
 
 	"github.com/BurntSushi/toml"
-	"github.com/view-team/view-server-core/config/encoder"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
 )
 
 type tomlEncoder struct{}

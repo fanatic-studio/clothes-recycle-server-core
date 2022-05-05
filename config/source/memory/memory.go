@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/view-team/view-server-core/config/source"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
 	"github.com/google/uuid"
 )
 

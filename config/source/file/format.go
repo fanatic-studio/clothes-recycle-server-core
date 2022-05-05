@@ -3,7 +3,7 @@ package file
 import (
 	"strings"
 
-	"github.com/view-team/view-server-core/config/encoder"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/encoder"
 )
 
 func format(p string, e encoder.Encoder) string {

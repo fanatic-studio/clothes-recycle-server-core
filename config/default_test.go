@@ -9,10 +9,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/view-team/view-server-core/config/source"
-	"github.com/view-team/view-server-core/config/source/env"
-	"github.com/view-team/view-server-core/config/source/file"
-	"github.com/view-team/view-server-core/config/source/memory"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source/env"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source/file"
+	"github.com/fanatic-studio/clothes-recycle-server-core/config/source/memory"
 )
 
 func createFileForIssue18(t *testing.T, content string) *os.File {

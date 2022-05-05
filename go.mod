@@ -1,4 +1,4 @@
-module github.com/view-team/view-server-core
+module github.com/fanatic-studio/clothes-recycle-server-core
 
 go 1.14
 
